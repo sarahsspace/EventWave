@@ -9,7 +9,9 @@ The pages I made:
 Both front-end and back-end are fully functional and enter/delete/update the database on phpMyAdmin :) 
 
 Heres's the Home page demo:
+
 ![Demo GIF](images/homeDEMO.gif)
 
 Here's the Event Management page demo:
+
 ![Demo GIF](images/adminDEMO.gif)
